@@ -84,7 +84,36 @@ public class kisiListesi extends javax.swing.JFrame {
     return ogrenciler;
             
 }
-    
+    private void kat1btnActionPerformed(java.awt.event.ActionEvent evt) {                                        
+        kat1veli k1 = new kat1veli();
+        k1.setVisible(true);
+    }                                       
+
+    private void kat2btnActionPerformed(java.awt.event.ActionEvent evt) {                                        
+         kat2veli k2 = new kat2veli();
+         k2.setVisible(true);
+    }                                       
+
+    private void kat3btnActionPerformed(java.awt.event.ActionEvent evt) {                                        
+         kat3veli k3 = new kat3veli();
+         k3.setVisible(true);
+    }                                       
+
+    private void kat4btnActionPerformed(java.awt.event.ActionEvent evt) {                                        
+        kat4veli k4 = new kat4veli();
+        k4.setVisible(true);
+    }                                       
+
+    private void kat5btnActionPerformed(java.awt.event.ActionEvent evt) {                                        
+        kat5veli k5 = new kat5veli();
+        k5.setVisible(true);
+    }                                       
+
+    private void kat6btnActionPerformed(java.awt.event.ActionEvent evt) {                                        
+        kat6veli k6 = new kat6veli();
+        k6.setVisible(true);
+    }                                       
+
     
 
     /**
